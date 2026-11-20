@@ -2,7 +2,7 @@
   "schema": "qrscan-agent-plugin-stage/1",
   "engine": {
     "repository": "https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust",
-    "revision": "e5c48668149332219d903208e1882d27e7cab063"
+    "revision": "4f6e18d3103cee18b29db13bfcf1fa849295dc29"
   },
   "repository": "https://github.com/qrcode-ai-com/qrcode-barcode-scanner-plugin",
   "files": {
@@ -14,7 +14,7 @@
     ".junie-extension/marketplace.json": "80030a20824e100cadf84e0fe16a3395ed109f78b9de819ade7133116443db8a",
     ".mcp.json": "fc212d0f6209c2180719dc126de05f1aff8f554fdac5fb8fbd06663448ebd5c9",
     "LICENSE": "f4d433b564117e27b6aaf8f2902f2200368f57bb2d8286129c2f1774c000295a",
-    "README.md": "d76826764f1603192bb0707c6bbaaaaba068c27ba3ea182bf1d150ec288c636e",
+    "README.md": "45aeb0df0fb7437fb92b1125e33b35e22efae2a862326699e5e8dd31dd0ddbc6",
     "assets/logo.svg": "c1472699a206b74f66476bd53a8849d40c422ff5716b7bf690bdbc7c7c7598f4",
     "gemini-extension.json": "290f848e4fd3387fc6853071a5f3d472a98aacc56bae3dd05e637589b99bc3c8",
     "goose/qrscan-extension.yaml": "84cea2750d718fef892b6b1fa202f93b7391aea654b764be87ae40e65d160efe",
